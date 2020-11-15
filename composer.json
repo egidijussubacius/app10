@@ -1,0 +1,16 @@
+{
+    "name": "egidijus/app7",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "doctrine/orm": "^2.7",
+        "beberlei/doctrineextensions": "^1.2"
+    },
+
+    "autoload": {
+        "files": ["src/models/Continent.php", "src/models/Country.php"]
+
+
+    }
+
+}
